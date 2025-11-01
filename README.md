@@ -1,16 +1,10 @@
 
-- 👋 Hi, I’m @GoldinJ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jenia Goldin (@GoldinJ)
+- 👀 I’m interested in full-stack development, video analytics, biometrics, and security systems.
+- 🌱 I’m currently a 3rd-year Computer Science student at The Open University of Israel.
+- 💞️ I’m looking to collaborate on open-source projects using Python or Java.
+- [cite_start]📫 How to reach me: **goldin.evg@gmail.com** [cite: 2] | [cite_start]**[LinkedIn Profile](https://linkedin.com/in/jenia-goldin-b9096023a)** 
 
 ## Skills
 
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,git,github,linux,arduino&perline=4)](https://skillicons.dev)
-
-<!---
-GoldinJ/GoldinJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Skills](https://skillicons.dev/icons?i=python,flask,postgresql,c,java,git,github,linux,arduino&perline=5)](https://skillicons.dev)
